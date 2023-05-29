@@ -1,3 +1,5 @@
+//All rights reserved for "Ali Norouzi"
+
 #include <avr/io.h>
 #include <avr/interrupt.h>
 
